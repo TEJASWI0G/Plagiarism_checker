@@ -1,0 +1,967 @@
+Username,Description
+freeCodeCamp,The https://freeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.
+twbs,"The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+EbookFoundation, Freely available programming books
+facebook,"A declarative, efficient, and flexible JavaScript library for building user interfaces."
+d3,"Bring data to life with SVG, Canvas and HTML. "
+getify,A book series on JavaScript. @YDKJS on twitter.
+tensorflow,Computation using data flow graphs for scalable machine learning
+sindresorhus, Curated list of awesome lists
+vuejs,"A progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+angular,AngularJS - HTML enhanced for web apps!
+robbyrussell,"A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+"
+airbnb,JavaScript Style Guide
+github,A collection of useful .gitignore templates
+FortAwesome,The iconic font and CSS toolkit
+facebook,A framework for building native apps with React.
+electron,"Build cross platform desktop apps with JavaScript, HTML, and CSS"
+torvalds,Linux kernel source tree
+jquery,jQuery JavaScript Library
+jwasham,A complete computer science study plan to become a software engineer.
+moby,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+daneden, A cross-browser library of CSS animations. As easy to use as an easy thing.
+apple,The Swift Programming Language
+atom,The hackable text editor
+meteor,"Meteor, the JavaScript App Platform"
+h5bp,"A professional front-end template for building fast, robust, and adaptable web apps or sites."
+nodejs,Node.js JavaScript runtime 
+nodejs,Moved to https://github.com/nodejs/node
+rails,Ruby on Rails
+Semantic-Org,Semantic is a UI component framework based around useful principles from natural language.
+vinta,"A curated list of awesome Python frameworks, libraries, software and resources"
+hakimel,The HTML Presentation Framework
+socketio,Realtime application framework (Node.JS server)
+mrdoob,JavaScript 3D library.
+laravel,A PHP Framework For Web Artisans
+expressjs,"Fast, unopinionated, minimalist web framework for node."
+reactjs,Predictable state container for JavaScript apps
+moment,"Parse, validate, manipulate, and display dates in javascript."
+impress,It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired b
+nwjs,Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web techno
+jlevy,"Master the command line, in one page"
+chartjs,Simple HTML5 Charts using the <canvas> tag
+google,Material Design icons by Google
+jakubroztocil,"Modern command line HTTP client  user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting"
+ionic-team,Build amazing native and progressive web apps with open web technologies. One app running on everything 
+jekyll," Jekyll is a blog-aware, static site generator in Ruby"
+Microsoft,Visual Studio Code
+webpack,A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load par
+resume,Resumes generated using the GitHub informations
+AFNetworking,"A delightful networking framework for iOS, OS X, watchOS, and tvOS."
+golang,The Go programming language
+facebookincubator,Create React apps with no build configuration.
+Homebrew, The former home of Homebrew
+nvbn,Magnificent app which corrects your previous console command.
+h5bp,"A list of helpful front-end related questions you can use to interview potential candidates, test yourself or complet"
+pallets,"A microframework based on Werkzeug, Jinja2 and good intentions"
+NARKOZ,Based on a true story
+google,Material Design Components in HTML/CSS/JS
+adobe,"An open source code editor for the web, written in JavaScript, HTML and CSS."
+Dogfalo,"Materialize, a CSS Framework based on Material Design"
+blueimp,"File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audi"
+rg3,Command-line program to download videos from YouTube.com and other video sites
+necolas,A collection of HTML element and attribute style-normalizations
+gulpjs,The streaming build system
+callemall,React Components that Implement Google's Material Design.
+jashkenas,"Give your JS App some Backbone with Models, Views, Collections, and Events"
+django,The Web framework for perfectionists with deadlines.
+yarnpkg," Fast, reliable, and secure dependency management."
+requests,Python HTTP Requests for Humans 
+zurb,The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for site
+angular,One framework. Mobile & desktop.
+ReactiveX,RxJava  Reactive Extensions for the JVM  a library for composing asynchronous and event-based programs using observ
+chrislgarry,Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+kubernetes,Production-Grade Container Scheduling and Management
+lodash,"A modern JavaScript utility library delivering modularity, performance, & extras."
+Alamofire,Elegant HTTP Networking in Swift
+antirez,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values "
+wasabeef,A curated list of awesome Android UI/UX libraries
+ansible,Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid
+getlantern,Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest  https://github.com/getl
+josephmisiti,"A curated list of awesome Machine Learning frameworks, libraries and software."
+kamranahmedse,Roadmap to becoming a web developer in 2017
+papers-we-love,Papers from the computer science community to read and discuss.
+elastic,"Open Source, Distributed, RESTful Search Engine"
+Trinea,A categorized collection of Android Open Source Projects : codekk
+neovim,Vim-fork focused on extensibility and usability.
+Microsoft,TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+nylas, An extensible desktop mail app built on the modern web. Forks welcome!
+ReactTraining,Declarative routing for React
+TryGhost,"A simple, powerful publishing platform"
+johnpapa,Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
+typicode,Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+ariya,Scriptable Headless WebKit
+open-source-society, Path to a free self-taught education in Computer Science!
+tiimgreen,A list of cool features of Git and GitHub.
+rust-lang,"A safe, concurrent, practical language."
+square,"Type-safe HTTP client for Android and Java by Square, Inc."
+discourse,"A platform for community discussion. Free, open, simple."
+firehol,Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/
+dypsilon,Manually curated collection of resources for frontend web developers.
+mzabriskie,Promise based HTTP client for the browser and node.js
+avelino,"A curated list of awesome Go frameworks, libraries and software"
+caolan,Async utilities for node and the browser
+babel, Babel is a compiler for writing next generation JavaScript.
+tastejs,"Helping you select an MV* framework - Todo apps for Backbone.js, Ember.js, AngularJS, and many more"
+minimaxir,The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as use
+scrapy,"Scrapy, a fast high-level web crawling & scraping framework for Python."
+jashkenas,JavaScript's utility _ belt
+harvesthq,"Chosen is a library for making long, unwieldy select boxes more friendly."
+lukehoban,Overview of ECMAScript 6 features
+Modernizr,Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the users browser.
+square,An HTTP+HTTP/2 client for Android and Java applications.
+select2,"Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolli"
+vsouza,"A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects"
+adam-p,"Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending."
+sahat,A boilerplate for Node.js web applications
+enaqx,A collection of awesome things regarding React ecosystem.
+creationix,Node Version Manager - Simple bash script to manage multiple active node.js versions
+iluwatar,Design patterns implemented in Java
+prakhar1989, List of awesome university courses for learning Computer Science!
+gogits,Gogs is a painless self-hosted Git service.
+Unitech,Production process manager for Node.js apps with a built-in load balancer.
+alvarotrigo,fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
+gitlabhq,GitLab CE | Please open new issues in our issue tracker on GitLab.com
+karan, A list of practical projects that anyone can solve in any programming language.
+scikit-learn,scikit-learn: machine learning in Python
+googlesamples,A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+facebook,Immutable persistent data collections for Javascript which increase efficiency and simplicity.
+rethinkdb,The open-source database for the realtime web.
+caesar0301,"An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!"
+joshbuchea,A list of everything that could go in the <head> of your document
+bayandin,A curated list of awesome awesomeness
+certbot,"Certbot, previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto"
+toddmotto,A collective list of public JSON APIs for use in web development.
+Leaflet, JavaScript library for mobile-friendly interactive maps
+ecomfe,"A powerful, interactive charting and visualization library for browser"
+BVLC,Caffe: a fast open framework for deep learning.
+kenwheeler,the last carousel you'll ever need
+codepath,Extensive Open-Source Guides for Android Developers
+mozilla,PDF Reader in JavaScript
+FezVrasta,Material design theme for Bootstrap 3 and 4
+shadowsocks,"Updated Jun 24, 2017"
+google,Protocol Buffers - Google's data interchange format
+git,Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documenta
+gohugoio,A Fast and Flexible Static Site Generator built with love in GoLang.
+emberjs,Ember.js - A JavaScript framework for creating ambitious web applications
+rs,Asynchronous image downloader with cache support as a UIImageView category
+Polymer,Build modern apps using web components
+zenorocha, Modern copy to clipboard. No Flash. Just 3kb gzipped 
+facebook,"An extensible iOS and OS X animation library, useful for physics-based interactions."
+sindresorhus, Delightful Node.js packages and resources
+tensorflow,Models built with TensorFlow
+nvie,Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
+donnemartin,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+zeit,A terminal built on web technologies
+vuejs,A curated list of awesome things related to Vue.js
+ReactiveCocoa,Streams of values over time
+serverless,"Serverless Framework  Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure F"
+balderdashy,Realtime MVC Framework for Node.js
+plataformatec,Flexible authentication solution for Rails with Warden.
+kamranahmedse,Design Patterns for Humans - An ultra-simplified explanation
+Prinzhorn,Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and 
+open-guides, Amazon Web Services  a practical guide
+google,Google Core Libraries for Java
+herrbischoff,Use your OS X terminal shell to do awesome things.
+almasaeed2010,AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x
+numbbbbb, Apple  Swift The Swift Programming Language
+yahoo,"A set of small, responsive CSS modules that you can use in every web project."
+mathiasbynens," .files, including ~/.macos  sensible hacker defaults for macOS"
+IanLunn,"A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Ea"
+fchollet,"Deep Learning library for Python. Runs on TensorFlow, Theano, or CNTK."
+hexojs,"A fast, simple & powerful blog framework, powered by Node.js."
+JakeWharton,Bind Android views and callbacks to fields and methods.
+videojs,Video.js - open source HTML5 & Flash video player
+google,Web Starter Kit - a workflow for multi-device websites
+FallibleInc,Security Guide for Developers ()
+fastlane, The easiest way to automate building and releasing your iOS and Android apps
+astaxie,A golang ebook intro how to build a web with golang
+grafana,"The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More"
+Reactive-Extensions,The Reactive Extensions for JavaScript
+jgthms,Modern CSS framework based on Flexbox
+huginn,Create agents that monitor and act on your behalf. Your agents are standing by!
+hammerjs,A javascript library for multi-touch gestures :// You can touch this
+opencv,Open Source Computer Vision Library
+PhilJay,"A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts "
+syncthing,Open Source Continuous File Synchronization
+Kickball,This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the
+railsware,A terminal emulator for the 21st century.
+bumptech,An image loading and caching library for Android focused on smooth scrolling
+bevacqua, Drag and drop so simple it hurts
+t4t5,"A beautiful replacement for JavaScript's ""alert"""
+koajs,Expressive middleware for node.js using ES2017 async functions
+ripienaar,"A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+request, Simplified HTTP request client.
+BradLarson,An open source iOS framework for GPU-based image and video processing
+sdmg15, Some useful websites for programmers.
+ziadoz,"A curated list of amazingly awesome PHP libraries, resources and shiny things."
+square,A memory leak detection library for Android and Java.
+angular,Material design for AngularJS
+GitbookIO, Modern documentation format and toolchain using Git and Markdown
+photonstorm,"Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporti"
+JetBrains,The Kotlin Programming Language
+SamyPesse,How to Make a Computer Operating System in C++
+verekia, Step-by-step tutorial to build a modern JavaScript stack.
+usablica,A better way for new feature introduction and step-by-step users guide for your website and project.
+nostra13,"Powerful and flexible library for loading, caching and displaying images on Android."
+ZuzooVn,A complete daily plan for studying to become a machine learning engineer.
+MaximAbramchuck,A curated awesome list of lists of interview questions. Feel free to contribute! 
+postcss,Transforming styles with JS plugins
+bower,A package manager for the web
+VundleVim,"Vundle, the plug-in manager for Vim"
+Tencent,"A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications."
+defunkt,pushState + ajax = pjax
+kahun,A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
+SnapKit,"Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS "
+greenrobot,"Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less"
+XX-net,a web proxy tool
+pixijs,Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback
+danielgindi,Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
+ftlabs,Polyfill to remove click delays on browsers with touch UIs
+less,Less. The dynamic stylesheet language.
+petkaantonov,  Bluebird is a full featured promise library with unmatched performance.
+mitchellh,Vagrant is a tool for building and distributing development environments.
+SwiftyJSON,The better way to deal with JSON data in Swift
+ryanmcdermott, Clean Code concepts adapted for JavaScript
+symfony,The Symfony PHP framework
+github,A window.fetch JavaScript polyfill.
+ant-design, A UI Design Language
+ApacheInfra,"Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application"
+lord,Beautiful static documentation for your API
+pugjs,"Pug  robust, elegant, feature rich template engine for Node.js"
+spring-projects,The Spring Framework
+bcit-ci,Open Source PHP Framework (originally from EllisLab)
+facebook,A virtual machine designed for executing programs written in Hack and PHP.
+alex,"An attempt to answer the age old interview question ""What happens when you type google.com into your browser and pres"
+0xAX,A little bit about a linux kernel
+kriasoft,"React Starter Kit  isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Bro"
+alibaba,A framework for building Mobile cross-platform UI
+zeit,Framework for server-rendered React apps
+tonsky,Monospaced font with programming ligatures
+twitter,typeahead.js is a fast and fully-featured autocomplete library
+react-boilerplate," A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best"
+angular-ui,"Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies ("
+dhg,"Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development"
+FreeCodeCampChina,CodeIssuesPull requestsWiki^_^
+dimsemenov,"JavaScript image gallery for mobile and desktop, modular, framework independent"
+futurice,"Do's and Don'ts for Android development, by Futurice developers"
+Valloric,A code-completion engine for Vim
+zxing,"Official ZXing (""Zebra Crossing"") project home"
+isocpp,"The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++"
+jashkenas,Unfancy JavaScript
+jcjohnson,Torch implementation of neural style algorithm
+facebook,Application Architecture for Building User Interfaces
+ElemeFE,A Vue.js 2.0 UI Toolkit for Web
+racaljk,google hosts
+twbs,"Build mobile apps with simple HTML, CSS, and JavaScript components."
+quilljs,"Your powerful, rich text editor"
+coreos,Distributed reliable key-value store for the most critical data of a distributed system
+Bilibili,"Android/iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support."
+rstacruz,"For slim progress bars like on YouTube, Medium, etc"
+dokku,A docker-powered PaaS that helps you build and manage the lifecycle of applications
+bitcoin,Bitcoin Core integration/staging tree
+webtorrent, Streaming torrent client for the web
+tornadoweb,"Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed."
+square,A powerful image downloading and caching library for Android
+parse-community,Parse-compatible API server module for Node/Express
+dkhamsing, Collaborative List of Open-Source iOS Apps
+spring-projects,Spring Boot
+airbnb,Render After Effects animations natively on Android and iOS
+google,The Google I/O 2016 Android App
+limetext,Open source API-compatible alternative to the text editor Sublime Text
+soimort, Dumb downloader that scrapes the web
+jdg,MBProgressHUD + Customizations
+kriskowal,A promise library for JavaScript
+tobiasahlin,A collection of loading indicators animated with CSS
+jaywcjlove, This repo is a collection of awesome Mac applications and tools for developers and designers.
+reddit,the code that powers reddit.com
+angular-ui,The de-facto solution to flexible routing with nested views in AngularJS
+jondot,"Awesome React Native components, news, tools, and learning material!"
+apache,Mirror of Apache Spark
+Thibaut,API Documentation Browser
+chjj,A markdown parser and compiler. Built for speed.
+knsv,Generation of diagram and flowchart from text in a similar manner as markdown
+juliangarnier,JavaScript Animation Engine
+designmodo,"Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and fu"
+julianshapiro,Accelerated JavaScript animation.
+akullpp,"A curated list of awesome frameworks, libraries and software for the Java programming language."
+raywenderlich,"Algorithms and data structures in Swift, with explanations!"
+postcss,Parse CSS and add vendor prefixes to rules by Can I Use
+getsentry,Sentry is a cross-platform crash reporting and aggregation platform.
+angular,Seed project for angular apps.
+npm,a package manager for javascript
+facebook,An Android library for managing images and the memory they use.
+hubotio,A customizable life embetterment robot.
+domnikl,sample code for several design patterns in PHP
+ReactiveX,RxJava bindings for Android
+rwaldron,"Principles of Writing Consistent, Idiomatic JavaScript"
+mholt,"Fast, cross-platform HTTP/2 web server with automatic HTTPS"
+nolimits4web,Most modern mobile touch slider with hardware accelerated transitions
+madrobby,"Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API"
+mochajs," simple, flexible, fun javascript test framework for node.js & the browser"
+Automattic,MongoDB object modeling designed to work in an asynchronous environment.
+wg,Modern HTTP benchmarking tool
+ggreer,"A code-searching tool similar to ack, but faster."
+jlmakes,Easy scroll animations for web and mobile browsers.
+jasmine,Simple JavaScript testing framework for browsers and node.js
+cheeriojs,"Fast, flexible, and lean implementation of core jQuery designed specifically for the server."
+bbatsov,A community-driven Ruby coding style guide
+enyo,Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
+CamDavidsonPilon,"aka ""Bayesian Methods for Hackers"": An introduction to Bayesian methods + probabilistic programming with a computatio"
+segmentio,A high-level browser automation library.
+RocketChat,"Have your own Slack like online chat, built with Meteor."
+kripken,Emscripten: An LLVM-to-JavaScript Compiler
+ruby,The Ruby Programming Language
+interagent,HTTP API design guide extracted from work on the Heroku Platform API
+facebook,Adds static typing to JavaScript to improve developer productivity and code quality.
+matteocrippa,A collaborative list of awesome swift resources. Feel free to contribute!
+standard," JavaScript Style Guide, with linter & automatic code fixer"
+braydie,A guide on how to be a Programmer - originally published by Robert L Read
+php,The PHP Interpreter
+songrotek,Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+fouber,starwatchfork
+twbs,Official Sass port of Bootstrap 2 and 3.
+HubSpot,Automatically add a progress bar to your site. #hubspot-open-source
+wycats,"Updated May 31, 2017"
+syl20bnr,"A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!"
+riot,Simple and elegant component-based UI library
+codemirror,In-browser code editor
+dotnet,"This repo contains the .NET Core foundational libraries, called CoreFX. It includes classes for collections, file sys"
+aymericdamien,TensorFlow Tutorial and Examples for beginners
+ipader,Swifthttp://dev.swiftguide.cn
+desandro, Cascading grid layout library
+naptha,Pure Javascript OCR for 62 Languages 
+libgdx,Desktop/Android/HTML5/iOS Java game development framework
+PerfectlySoft,"Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, web"
+mongodb,The MongoDB Database
+legomushroom,motion graphics toolbelt for the web
+faif,A collection of design patterns/idioms in Python
+kennethreitz,"Python best practices guidebook, written for Humans."
+prettier,Prettier is an opinionated code formatter.
+kilimchoi,A curated list of engineering blogs
+facebookarchive,Smooth asynchronous user interfaces for iOS apps.
+ipython,"Official repository for IPython itself. Other repos in the IPython organization contain things like the website, docu"
+ccgus,A Cocoa / Objective-C wrapper around SQLite
+MostlyAdequate,Mostly adequate guide to FP (in javascript)
+wagerfield,Parallax Engine that reacts to the orientation of a smart device
+etsy,Daemon for easy but powerful stats aggregation
+storybooks, Interactive development & testing environment for React and React-Native UI components
+Microsoft,"Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit"
+oneuijs,"Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript."
+gruntjs,Grunt: The JavaScript Task Runner
+node-inspector,Node.js debugger based on Blink Developer Tools
+drduh,A practical guide to securing macOS.
+sindresorhus,Useful resources for creating apps with Electron
+puikinsh,Free Bootstrap 3 Admin Template
+astaxie,"beego is an open-source, high-performance web framework for the Go programming language."
+textmate,TextMate is a graphical text editor for OS X 10.9+
+altercation,"precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes"
+diaspora,"A privacy-aware, distributed, open source social network."
+bolshchikov,Must-watch videos about javascript
+tesseract-ocr,Tesseract Open Source OCR Engine (main repository)
+DefinitelyTyped,The repository for high quality TypeScript type definitions.
+caskroom,A CLI workflow for the administration of Mac applications distributed as binaries
+ionic-team,The premium icon font for Ionic
+remy,Monitor for any changes in your node.js application and automatically restart the server - perfect for development
+fzaninotto,Faker is a PHP library that generates fake data for you
+substack,browser-side require() the node.js way
+jiahaog,Make any web page a desktop application
+h5bp,A Performant Transitions and Animations Library
+adobe-fonts,Monospaced font family for user interface and coding environments
+scottjehl,"A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)"
+terryum,The most cited deep learning papers
+realm,Realm is a mobile database: a replacement for Core Data & SQLite
+influxdata,"Scalable datastore for metrics, events, and real-time analytics"
+MengTo,A library to simplify iOS animations in Swift.
+github,hub helps you win at git.
+Shopify,The exceptionally handsome dashboard framework in Ruby and Coffeescript.
+janl,Minimal templating with {{mustaches}} in JavaScript
+jaredhanson,"Simple, unobtrusive authentication for Node.js."
+jmcunningham,"A bunch of links to blog posts, articles, videos, etc for learning AngularJS"
+facebook, Delightful JavaScript Testing.
+julycoding,/
+visionmedia,Ajax with less suck - (and node.js HTTP client to match)
+chriskempson,Tomorrow Theme the precursor to Base16 Theme
+requirejs,A file and module loader for JavaScript
+shadowsocks,"If you want to keep a secret, you must also hide it from yourself."
+cmderdev,Lovely console emulator package for Windows
+yabwe,Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
+Mashape, The Microservice API Gateway
+mattermost,Open source Slack-alternative in Golang and React - Mattermost
+Mantle,Model framework for Cocoa and Cocoa Touch
+jessesquires,An elegant messages UI library for iOS
+cockroachdb,"CockroachDB - the open source, cloud-native SQL database."
+spf13,The ultimate vim distribution
+angular,CLI tool for Angular
+Marak,generate massive amounts of fake data in Node.js and the browser
+CoderMJLee,An easy way to use pull-to-refresh.
+avajs, Futuristic JavaScript test runner
+jfeinstein10,An Android library that allows you to easily create applications with slide-in menus. You may use it in your Android 
+developit, Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+git-tips,Most commonly used git tips and tricks.
+NativeScript,"NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like "
+inconshreveable,Introspected tunnels to localhost
+donnemartin,Huge update! Interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
+loverajoel,This is about useful JS tips!
+RubaXa,Sortable  is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuer
+cocos2d,"Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over t"
+gin-gonic,Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up
+infernojs,"An extremely fast, React-like JavaScript library for building modern user interfaces"
+chrisbanes,"Implementation of ImageView for Android that supports zooming, by various touch gestures."
+yiisoft,"Yii 2: The Fast, Secure and Professional PHP Framework"
+magicalpanda,Super Awesome Easy Fetching for Core Data 1!!!11!!!!1!
+netty,Netty project - an event-driven asynchronous network application framework
+substack,how to write node programs with streams
+JacksonTian, Frontend Knowledge Structure
+elixir-lang,"Elixir is a dynamic, functional language designed for building scalable and maintainable applications"
+wsargent,Docker Cheat Sheet
+jquery,jQuery Mobile Framework
+vapor,A server-side Swift web framework.
+Netflix,"Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and"
+SnapKit,A Swift Autolayout DSL for iOS & OS X
+drone,"Drone is a Continuous Delivery platform built on Docker, written in Go"
+jquery,The official jQuery user interface library.
+nolimits4web,Full featured HTML framework for building iOS & Android apps
+sass,Sass makes CSS fun again.
+gatsbyjs, Blazing fast React.js static site generator
+adobe-webplatform,The JavaScript library for modern SVG graphics.
+philipwalton,"A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox."
+octocat,This repo is for demonstration purposes only.
+alcatraz,Package manager for Xcode
+pandas-dev,"Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R"
+VerbalExpressions,JavaScript Regular expressions made easy
+fbsamples,"Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects."
+google,Perceptual JPEG encoder
+bang590,JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and metho
+wekan,The open-source Trello-like kanban (built with Meteor)
+erikras,"A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform"
+docker,Define and run multi-container applications with Docker
+jlund,"Streisand sets up a new server running L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor b"
+loopj,An Asynchronous HTTP Library for Android
+google,Style guides for Google-originated open-source projects
+xdissent,Automated installation of the Microsoft IE App Compat virtual machines
+selectize,Selectize is the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling k
+amazeui,"Amaze UI, a mobile-first and modular front-end framework."
+SVProgressHUD,A clean and lightweight progress HUD for your iOS and tvOS app.
+uikit,A lightweight and modular front-end framework for developing fast and powerful web interfaces
+phanan,A collection of useful .htaccess snippets.
+browserstate,"History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. In"
+uxsolutions,A datepicker for twitter bootstrap (@twbs)
+foreverjs,A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
+phoenixframework,Productive. Reliable. Fast.
+airbnb,JavaScript Testing utilities for React
+kdn251,Everything you need to know to get the job.
+facebookresearch,Library for fast text representation and classification.
+jwagner,Content aware image cropping
+addyosmani, A creative-commons book on Backbone.js for beginners and advanced users alike
+marcuswestin,Cross-browser storage for all use cases  Used across the web  See below for v2.0 news!
+benweet,In-browser markdown editor
+yaronn,Build terminal dashboards using ascii/ansi art and javascript
+ReactiveX,Reactive Programming in Swift
+rollup,Next-generation ES6 module bundler
+google,LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to st
+aurelia,The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building
+alebcay,"A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php."
+mobxjs,"Simple, scalable state management."
+DrkSephy,"ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets"
+LightTable,The Light Table IDE
+Carthage,"A simple, decentralized dependency manager for Cocoa"
+facebook,"Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code tha"
+capistrano,Remote multi-server automation tool
+cubiq,Smooth scrolling for the web
+Developer-Y,List of Computer Science courses with video lectures.
+nsqio,A realtime distributed messaging platform
+gionkunz,Simple responsive charts
+AllThingsSmitty,A collection of tips to help take your CSS skills pro
+servo,The Servo Browser Engine
+imathis,Octopress is an obsessively designed framework for Jekyll blogging. Its easy to configure and easy to deploy. Sweet 
+tootsuite,A GNU Social-compatible microblogging server
+tldr-pages, Simplified and community-driven man pages
+mysqljs,A pure node.js JavaScript Client implementing the MySql protocol.
+petehunt,"Updated Apr 18, 2017"
+rbenv,Groom your apps Ruby environment
+composer,Dependency Manager for PHP
+thedillonb,CodeHub is an iOS application written using Xamarin
+sampotts,"A simple HTML5, YouTube and Vimeo player"
+keen,Responsive dashboard templates for Bootstrap
+markerikson,"Curated tutorial and resource links I've collected on React, Redux, ES6, and more"
+cjwirth,A curated list of awesome iOS UI/UX libraries
+hashicorp,Service Discovery and Configuration Made Easy
+CocoaPods,The Cocoa Dependency Manager.
+amix,The ultimate Vim configuration: vimrc
+alibaba, A fast JSON parser/generator for Java
+playframework,Play Framework
+nicklockwood,"A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS"
+lgvalle,Android Transition animations explanation with examples.
+dimsemenov,Light and responsive lightbox script with focus on performance.
+go-martini,Classy web framework for Go
+androidannotations,Fast Android Development. Easy maintainance.
+ViccAlexander,Flat Color Framework for iOS (Obj-C & Swift)
+localForage," Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API."
+donnemartin,"Recently updated with 50 new notebooks! Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Kera"
+vim,The official Vim repository
+angular,Material Design components for Angular
+sinatra,Classy web-development dressed in a DSL (official / canonical repo)
+Bilibili,HTML5 FLV Player
+vim-airline,lean & mean status/tabline for vim that's light as air
+alsotang,Node.js  by alsotang
+equinusocio,"Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino"
+parkjs814,Algorithm Visualizer
+guzzle,"Guzzle, an extensible PHP HTTP client"
+WordPress,"WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror "
+junegunn, A command-line fuzzy finder written in Go
+lkzhao,Elegant transition library for iOS & tvOS
+facebook,"SQL powered operating system instrumentation, monitoring, and analytics."
+buunguyen,Code tree for GitHub
+GoogleChrome,"Auditing, performance metrics, and best practices for Progressive Web Apps"
+hackiftekhar,Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. 
+sorrycc," A collection of awesome browser-side JavaScript libraries, resources and shiny things."
+chenglou,A spring that solves your animation problems.
+FormidableLabs,A CLI dashboard for webpack dev server
+WickyNilliams,Give your pages some headroom. Hide your header until you need it
+strongloop,LoopBack makes it easy to build modern applications that require complex integrations.
+begriffs,REST API for any Postgres database
+chrissimpkins,A typeface designed for source code
+tpope,pathogen.vim: manage your runtimepath
+php-fig,Standards either proposed or approved by the Framework Interop Group
+CocoaLumberjack,"A fast & simple, yet powerful & flexible logging framework for Mac and iOS"
+scottjehl,"A responsive image polyfill for <picture>, srcset, sizes, and more"
+Tencent,"Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk."
+lukasz-madon,A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+davezuko,"Get started with React, Redux, and React-Router."
+google,A Java serialization/deserialization library to convert Java Objects into JSON and back
+DmitryBaranovskiy,JavaScript Vector Library
+alibaba," Dubbo is a distributed, high performance RPC framework empowering applications with service import/export capabili"
+ptmt,React Native for macOS is an experimental fork for writing desktop apps using Cocoa
+nickbutcher,An Android app which provides design news & inspiration as well as being an example of implementing material design.
+stedolan,Command-line JSON processor
+hemanth,Jargon from the functional programming world in simple terms!
+luanfujun,"Code and data for paper ""Deep Photo Style Transfer"": https://arxiv.org/abs/1703.07511"
+gorhill,uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+hzlzh,& Apps///
+google,Font files available from Google Fonts
+geekcompany,Resume template for Chinese programmers . PHPiOSAndroidWebJavaC
+peachananr,Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin
+thomaspark,Themes for Bootstrap
+facebook,Relay is a JavaScript framework for building data-driven React applications.
+pouchdb, - PouchDB is a pocket-sized database.
+JakeWharton,Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.
+binux,A Powerful Spider(Web Crawler) System in Python.
+petehunt,Your guide to the (sometimes overwhelming!) React ecosystem.
+airbnb,An iOS library to natively render After Effects vector animations
+sindresorhus,List of useful Quick Look plugins for developers
+Tencent,Mars is a cross-platform network component developed by WeChat.
+nathanmarz,"Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and "
+PHPMailer,The classic email sending library for PHP
+rapid7,Metasploit Framework
+you-dont-need,"CSS is powerful, you can do a lot of things without JS."
+HubSpot,"Updated Jun 12, 2017"
+jgm,Universal markup converter
+reactnativecn,React Nativereact-nativeApp
+abhishekbanthia, A public list of APIs from round the web.
+android10,This is a sample app that is part of a series of blog posts I have written about how to architect an android applicat
+BrowserSync,Keep multiple browsers & devices in sync when building websites. http://browsersync.io
+Automattic,The new JavaScript- and API-powered WordPress.com
+sqlmapproject,Automatic SQL injection and database takeover tool
+JohnCoates,Apple TV Aerial Screensaver for Mac
+marcuswestin,An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews
+Hack-with-Github,"A collection of various awesome lists for hackers, pentesters and security researchers"
+pockethub,PocketHub Android App
+onevcat,"A lightweight, pure-Swift library for downloading and caching images from the web."
+jessepollak, make your credit card form better in one line of code
+JuliaLang,The Julia Language: A fresh approach to technical computing.
+robbiehanson,Asynchronous socket networking library for Mac and iOS
+facebook,An open-source C++ library developed and used at Facebook.
+fgnass,A spinning activity indicator
+dzenbot,A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no conten
+paularmstrong,Normalizes nested JSON according to a schema
+nagadomi,Image Super-Resolution for Anime-Style Art
+hashicorp,"Terraform is a tool for building, changing, and combining infrastructure safely and efficiently."
+karma-runner,Spectacular Test Runner for JavaScript
+fabric,"Simple, Pythonic remote execution and deployment."
+pingcap,TiDB is a distributed NewSQL database compatible with MySQL protocol
+maxwellito,JavaScript library to make drawing animation on SVG
+fffaraz,"A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
+xgrommx,Awesome list of Redux examples and middlewares
+yeoman,Yeoman - a set of tools for automating development workflow
+sdelements,Self-hosted chat app for small teams
+janpaepke,The javascript library for magical scroll interactions.
+thoughtbot,Easy file attachment management for ActiveRecord
+PHPOffice,A pure PHP library for reading and writing spreadsheet files
+niklasvh,Screenshots with JavaScript
+bailicangdu, vue2 + vuex  45 
+containous,"Trfik, a modern reverse proxy"
+kevinzhow,A simple and beautiful chart lib used in Piner and CoinsMan for iOS
+phacility,Open software engineering platform and fun adventure game
+brillout,Catalog of React Components & Libraries
+keon,Minimal examples of data structures and algorithms in Python
+powerline,Patched fonts for Powerline users.
+redux-saga,An alternative side effect model for Redux apps
+spree,Spree is a complete open source ecommerce solution for Ruby on Rails
+kesenhoo,Android
+ramda, Practical functional Javascript
+godotengine,Godot Engine  Multi-platform 2D and 3D game engine
+roots,WordPress starter theme with a modern development workflow
+imakewebthings,Waypoints is a library that makes it easy to execute a function whenever you scroll to an element.
+leereilly," A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine."
+scala,The Scala programming language
+crystal-lang,The Crystal Programming Language
+ty4z2008,Machine LearningDeep LearningPostgreSQLDistributed SystemNode.JsGolang
+fullstackio,swift implementation of flappy bird. More at fullstackedu.com
+revel,"A high productivity, full-stack web framework for the Go language."
+AHAAAAAAA, Live visualization of all the pokemon in your area... and more! (shutdown)
+onevcat,"Xcode plug-in which helps you write documentation comment easier, for both Objective-C and Swift."
+python,The Python programming language
+NUKnightLab,TimelineJS: A Storytelling Timeline built in JavaScript.
+daylerees,Colour schemes for a variety of editors created by Dayle Rees.
+swagger-api,"Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from"
+google,Flexbox for Android
+tj,"The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)"
+MrRio,Client-side JavaScript PDF generation for everyone.
+tpope,"fugitive.vim: a Git wrapper so awesome, it should be illegal"
+iissnan,Elegant theme for Hexo.
+oxford-cs-deepnlp-2017,Oxford Deep NLP 2017 course
+Microsoft,This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Mic
+systemjs,Dynamic ES module loader
+gollum,"A simple, Git-powered wiki with a sweet API and local frontend."
+airyland,Vue UI Components based on WeUI
+metafizzy, Filter & sort magical layouts
+AngularClass," An Angular Starter kit featuring Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy R"
+thejameskyle, Possibly the smallest compiler ever
+vuejs,Centralized State Management for Vue.js.
+so-fancy,Good-lookin' diffs. Actually nah The best-lookin' diffs. 
+knockout,"Knockout makes it easier to create rich, responsive UIs with JavaScript"
+bmorelli25,Free resources for learning Full Stack Web Development
+aFarkas,This script is the defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer.
+navasmdc,This is a library with components of Android L to you use in android 2.2
+carhartl,"No longer maintained, superseded by JS Cookie:"
+chrisbanes,DEPRECATED
+hehonghui,Android
+Rochester-NRT,"An independent, student-led replication of DeepMind's 2016 Nature publication, ""Mastering the game of Go with deep ne"
+reactjs,Official React bindings for Redux
+irungentoo,The future of online communications.
+stylus,"Expressive, robust, feature-rich CSS language built for nodejs"
+thoughtbot,A Lightweight Sass Tool Set
+ochococo,Design Patterns implemented in Swift
+kangax,"Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
+daimajia,The Most Powerful Swipe Layout!
+joewalnes,"Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets."
+shichuan,JavaScript Patterns
+handsontable,Handsontable Community Edition - a JavaScript/HTML5 Spreadsheet Library for Developers
+tj,node.js command-line interfaces made easy
+apenwarr,Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux a
+gztchan, Creative Resources for Developer and Designer :)
+vim-syntastic,Syntax checking hacks for vim
+styled-components,Visual primitives for the component age 
+mgonto,AngularJS service to handle Rest API Restful Resources properly and easily
+phalcon,"High performance, full-stack PHP framework delivered as a C extension."
+scrooloose,A tree explorer plugin for vim.
+audreyr,Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things abo
+goldfire,Javascript audio library for the modern web.
+encode,Web APIs for Django.
+slimphp,Slim Framework source code
+slimphp,Slim Framework source code
+ruby-grape,An opinionated framework for creating REST-like APIs in Ruby.
+CosmicMind,An animation and graphics framework for Material Design in Swift.
+sahat,Token-based AngularJS Authentication
+javve,"The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Buil"
+sindresorhus,Capture website screenshots
+liaohuqiu,Ultra Pull to Refresh for Android. Support all the views.
+google,A modern editor with a backend written in Rust.
+Flipboard,An in-app debugging and exploration tool for iOS
+airbnb,render React components to Sketch 
+chriso,String validation
+hapijs,Server Framework for Node.js
+realm,Realm is a mobile database: a replacement for SQLite & ORMs
+WhisperSystems,A private messenger for Android.
+mitmproxy,An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
+koalaman,"ShellCheck, a static analysis tool for shell scripts"
+NodeRedis,redis client for node
+greenrobot,greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.
+paperjs,"The Swiss Army Knife of Vector Graphics Scripting  Scriptographer ported to JavaScript and the browser, using HTML5 "
+google,Memory Efficient Serialization Library
+Matt-Esch,A Virtual DOM and diffing algorithm
+CymChad,"Powerful and flexible RecyclerAdapter, www.recyclerview.org"
+googlesamples,This sample shows how to implement an audio media app that works across multiple form factors and provide a consisten
+guillaumepotier,"Validate your forms, frontend, without writing a single line of javascript"
+facebook,"A library that provides an embeddable, persistent key-value store for fast storage."
+eslint,A fully pluggable tool for identifying and reporting on patterns in JavaScript.
+alexjc,"Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, trans"
+facebook,"An easy way to add a simple, shimmering effect to any view in an iOS app."
+jtoy,TensorFlow - A curated list of dedicated resources http://tensorflow.org
+matryer,Put the output from any script or program in your Mac OS X Menu Bar
+facebook,"Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more."
+arasatasaygin,Micro check library
+nodemailer, Send e-mails with Node.JS  easy as cake!
+teamcapybara,Acceptance test framework for web applications
+resque,"Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing t"
+dotnet,"This repo contains the .NET Core runtime, called CoreCLR, and the base library, called mscorlib. It includes the garb"
+yudai,Share your terminal as a web application
+shadowsocks,A shadowsocks client for Android
+moklick,A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mos
+ccampbell,Simple library for handling keyboard shortcuts in Javascript
+Idnan,A guide to learn bash
+gaearon,"DevTools for Redux with hot reloading, action replay, and customizable UI"
+facebook,Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
+phanan,A personal music streaming server that works.
+tmpvar,"A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js"
+atlassian,A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
+mxcl,Promises for Swift & ObjC
+fish-shell,The user-friendly command line shell.
+hacksalot,"Generate polished rsums and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, "
+jordansissel,"Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity."
+saltstack,Software to automate the management and configuration of any infrastructure or application at scale. Get access to th
+eczarny,Spectacle allows you to organize your windows without using a mouse.
+junegunn, Minimalist Vim Plugin Manager
+chrisaljoudi,"uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari."
+bbatsov,"A Ruby static code analyzer, based on the community Ruby style guide."
+slackhq,A drop-in UIViewController subclass with a growing text input view and other useful messaging features
+forkingdog,Template auto layout cell for automatically UITableViewCell height calculating
+jquery-validation,jQuery Validation Plugin library sources
+Homebrew, The missing package manager for macOS
+rwaldron,"JavaScript Robotics and IoT programming framework, developed at Bocoup."
+exacity,Deep Learning Book Chinese Translation
+chmln,lightweight and powerful datetimepicker with no dependencies
+NetEase,"A fast,scalable,distributed game server framework for Node.js."
+harthur,[UNMAINTAINED] Neural networks in JavaScript
+winstonjs,a multi-transport async logging library for node.js
+Netflix,A JavaScript library for efficient data fetching
+google,Grumpy is a Python to Go source code transcompiler and runtime.
+HubSpot,Automatically display online/offline indication to your users
+basecamp,A rich text editor for everyday writing
+OpenEmu, Retro video game emulation for macOS
+afaqurk,A beautiful web dashboard for Linux
+HelloZeroNet,ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
+sorin-ionescu,The configuration framework for Zsh
+dmlc,"Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and"
+dotnet,"The .NET Compiler Platform (""Roslyn"") provides open-source C# and Visual Basic compilers with rich code analysis APIs."
+daimajia,Cute view animation collection.
+ipfs,IPFS - The Permanent Web
+mikepenz,"The flexible, easy to use, all in one drawer library for your Android project."
+MithrilJS,A Javascript Framework for Building Brilliant Applications (development repo)
+labstack,"High performance, minimalist Go web framework"
+ksoichiro,Android library to observe scroll events on scrollable views.
+powerline,"Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, includ"
+elastic,"Logstash - transport and process your logs, events, or other data"
+HannahMitt,Android application powering the mirror in my house
+pyenv,Simple Python version management
+mperham,"Simple, efficient background processing for Ruby"
+Grouper,A collection of awesome flat UI components for iOS.
+qrohlf,Algorithmically generated triangle art
+JedWatson,A Select control built with and for React JS
+TTTAttributedLabel,"A drop-in replacement for UILabel that supports attributes, data detectors, links, and more"
+zenorocha, A collection of Alfred 3 workflows that will rock your world
+facebookarchive,Three20 is an Objective-C library for iPhone developers
+ejci,"Make use of your favicon with badges, images or videos"
+gothinkster,"TodoMVC for the RealWorld  Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many m"
+carrierwaveuploader,"Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks"
+google,Best practices for modern web development
+nicolargo,Glances an Eye on your system. A top/htop alternative.
+elastic, Kibana analytics and search dashboard for Elasticsearch
+datasciencemasters,The Open Source Data Science Masters
+mishoo,JavaScript parser / mangler / compressor / beautifier library for NodeJS
+danialfarid,Lightweight Angular directive to upload files with optional FileAPI shim for cross browser support
+DrKLO,Telegram for Android source
+FFmpeg,mirror of git://source.ffmpeg.org/ffmpeg.git
+cmusatyalab,Face recognition with deep neural networks.
+kamens,jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dr
+mwaterfall,"A simple iOS photo and video browser with grid view, captions and selections."
+docker,Visual Docker Container Management on Mac & Windows
+piwik,Liberating Web Analytics. Star us on Github? +1. Piwik is the leading open alternative to Google Analytics that gives
+WebAssembly,WebAssembly Design Documents
+laravel,"Updated Jun 24, 2017"
+mrmrs,Smarter defaults for colors on the web.
+path,iOS library for quickly displaying images while scrolling
+veggiemonk, A curated list of Docker resources and projects
+ConnorAtherton,"Delightful, performance-focused pure css loading animations."
+reactjs,Selector library for Redux
+activeadmin,The administration framework for Ruby on Rails applications.
+marmelab,Monkey testing library for web apps and Node.js
+buger,GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to con
+geeeeeeeeek, A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
+chinchang,A CSS only tooltip library for your lovely websites.
+purifycss,Remove unused CSS. Also works with single-page apps.
+karpathy,Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
+NodeBB,Node.js based forum software built for the modern web
+uNetworking,Tiny WebSockets
+Ramotion,RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items.
+EnterpriseQualityCoding,FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious busin
+markets," A collection of awesome Ruby libraries, tools, frameworks and software"
+nodejitsu,A full-featured http proxy for node.js
+rstacruz,Super-smooth CSS3 transformations and transitions for jQuery
+google,Traceur is a JavaScript.next-to-JavaScript-of-today compiler
+jhipster,Open Source application generator for creating Spring Boot + Angular projects in seconds!
+carlhuda,Vim distribution
+HubSpot,"A positioning engine to make overlays, tooltips and dropdowns better #hubspot-open-source"
+hdodenhof,A circular ImageView for Android
+dropbox,Low-Budget Password Strength Estimation
+jacomyal,A JavaScript library dedicated to graph drawing
+svg,Nodejs-based tool for optimizing SVG vector graphics files.
+css-modules,Documentation about css-modules
+philipwalton,A community-curated list of flexbox issues and cross-browser workarounds for them.
+jshint,JSHint is a tool that helps to detect errors and potential problems in your JavaScript code
+matthieua,Reveal CSS animation as you scroll down a page
+winterbe,Modern Java - A Guide to Java 8
+relax,"New generation CMS on top of React, Redux and GraphQL"
+akka,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM"
+raywenderlich,The official Swift style guide for raywenderlich.com.
+dthree,Cross-platform Linux commands in ES6
+senchalabs,Connect is a middleware layer for Node.js
+ocornut,Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+apple,This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
+mozilla-mobile,Firefox for iOS
+PowerShell,PowerShell for every system!
+spotify,"Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, work"
+minio,Minio is an open source object storage server compatible with Amazon S3 APIs
+ruanyf,ECMAScript 6 JavaScript  ECMAScript 6 
+home-assistant, Open-source home automation platform running on Python 3
+mxgmn,Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
+kkga,A Hyperminimal UI Theme for Sublime Text
+cakephp,CakePHP: The Rapid Development Framework for PHP - Official Repository
+FredrikNoren,The easiest way to use git. On any platform. Anywhere.
+mozilla,A HTML5/JavaScript multiplayer game experiment
+marionettejs,The Backbone Framework
+javan,Cron jobs in Ruby
+connors,The fastest way to build beautiful Electron apps using simple HTML and CSS
+rkt,"rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards."
+go-kit,A standard library for microservices.
+redox-os,Redox: A Rust Operating System
+clojure,Clojure to JS compiler
+nosir,Format input text content when you are typing...
+realm,A tool to enforce Swift style and conventions.
+celery,Distributed Task Queue (development branch)
+CRYTEK,CRYENGINE is a powerful real-time game development platform created by Crytek.
+babun,Babun - a Windows shell you will love!
+tj,Node version management
+getgrav,"Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS"
+akveo,Angular Bootstrap Admin Panel Framework
+google,An extensible media player for Android
+kataras,[ACQUIRED] The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready-To-GO.
+philc,The hacker's browser.
+FineUploader,"Multiple file upload plugin with image previews, drag and drop, progress bars. S3 and Azure support, image scaling, f"
+torch,http://torch.ch
+serbanghita,Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent str
+Aufree,A curated list of delightful iOS resources.
+CoderMJLee,"A fast, convenient and nonintrusive conversion between JSON and model. Your model class don't need to extend another "
+hashicorp,A tool for managing secrets.
+getpelican,Static site generator that supports Markdown and reST syntax. Powered by Python.
+reactide,Reactide is the first dedicated IDE for React web application development. http://reactide.io
+gaearon,Tweak React components in real time.
+graphql,A reference implementation of GraphQL for JavaScript
+mailpile,"A free & open modern, fast email client with user-friendly encryption and privacy features"
+romaonthego,iOS 7/8 style side menu with parallax effect.
+atech, A fully featured open source mail delivery platform for incoming & outgoing e-mail
+Compass,Compass is no longer actively maintained. Compass is a Stylesheet Authoring Environment that makes your website desig
+amsul,"(Looking for Project Maintainers) The mobile-friendly, responsive, and lightweight jQuery date & time input picker."
+douglascrockford,JSON in JavaScript
+mailcheck,Reduce misspelled email addresses in your web apps.
+hakimel,Buttons with built-in loading indicators.
+TeamStuQ,StuQ 
+dangrossman,Date range picker component for Bootstrap
+facebook,"A static analyzer for Java, C, C++, and Objective-C"
+c3js,A D3-based reusable chart library
+arduino,open-source electronics prototyping platform
+rupa,z - jump around
+twitter,"A fast, light-weight proxy for memcached and redis"
+odoo,Odoo. Open Source Apps To Grow Your Business.
+deeplearning4j,"Deep Learning for Java, Scala & Clojure on Hadoop & Spark With GPUs - From Skymind"
+restify,node.js REST framework specifically meant for web service APIs
+SeleniumHQ,A browser automation framework and ecosystem.
+facebook,A conforming Objective-C WebSocket client library.
+tmux,tmux source code
+coryhouse,"React + Redux starter kit / boilerplate with Babel, hot reloading, testing, linting and a working example app, all bu"
+getredash,"Make Your Company Data Driven. Connect to any data source, easily visualize and share your data."
+CodeSeven,Simple javascript toast notifications
+fullcalendar,Full-sized drag & drop event calendar (jQuery plugin)
+zeit,Package your Node.js project into an executable
+mishoo,JavaScript parser / mangler / compressor / beautifier toolkit
+fronteed,Highly customizable checkboxes and radio buttons (jQuery & Zepto)
+CEWendel,An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (simil
+iview,A high quality UI Toolkit built on Vue.js
+seajs,A Module Loader for the Web
+ReactiveX,A reactive programming library for JavaScript
+cjbarber,"Tools of The Trade, from Hacker News."
+hangtwenty,Dive into Machine Learning with Python Jupyter notebook and scikit-learn
+giakki,Remove unused styles from CSS
+chrisbanes,Demos the new Android Design library.
+boot2docker,Lightweight Linux for Docker
+libuv,Cross-platform asynchronous I/O
+feathersjs,A REST and realtime API layer for modern applications.
+fatih,Go development plugin for Vim
+dexteryy,"A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development"
+facebook,"An open IDE for web and native mobile development, built on top of Atom"
+breakwa11,"ShadowsocksR update rss, SSR organization https://github.com/shadowsocksr"
+tmuxinator,Manage complex tmux sessions easily
+orhanobut," Simple, pretty and powerful logger for android"
+alexjc,Super Resolution for images using deep learning.
+mhinz, All things Vim!
+hpneo,the easiest way to use Google Maps
+guarinogabriel, OS X command line tools for developers  The ultimate tool to manage your Mac. It provides a huge set of command li
+angular,E2E test framework for Angular apps
+casperjs,Navigation scripting and testing utility for PhantomJS and SlimerJS
+bendc,"Some HTML, CSS and JS best practices."
+erikras,A Higher Order Component using react-redux to keep form state in a Redux store
+plataformatec,"Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup."
+FelisCatus,Manage and switch between multiple proxies quickly & easily.
+vurtun,A single-header ANSI C gui library
+hashicorp,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+mozilla,A library optimized for concise and principled data graphics and layouts.
+255kb,A collection of services with great free tiers for developers on a budget
+louischatriot,"The JavaScript Database, for Node.js, nw.js, electron and the browser"
+Famous,This repo is being deprecated. Please check out http://github.com/famous/engine
+ubuwaits,A showcase of the best typefaces from the Google web fonts directory.
+StackExchange,Dapper - a simple object mapper for .Net
+Mango,A touch slideout navigation menu for your mobile web apps.
+sitaramc,"Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained acce"
+cyclejs,A functional and reactive JavaScript framework for predictable code
+OAI,The OpenAPI Specification Repository
+h4cc,"A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:"
+git-up,The Git interface you've been missing all your life has finally arrived.
+flightjs,"A component-based, event-driven JavaScript framework from Twitter"
+nightwatchjs,Automated testing and continous integration framework based on node.js and selenium webdriver
+h2o,"H2O - the optimized HTTP/1, HTTP/2 server"
+nlp-compromise,Natural language processing in javascript
+xing,Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security c
+twitter,Twitter Emoji for Everyone
+google,Reactive Programming for Android
+bazelbuild,"a fast, scalable, multi-language and extensible build system"
+thoughtbot,A guide for programming in style.
+howdyai,Botkit is a toolkit for making bot applications
+kaminari," A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps"
+rasbt,"The ""Python Machine Learning"" book code repository and info resource"
+Quick,The Swift (and Objective-C) testing framework.
+sferik,RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
+NaturalNode,general natural language facilities for node
+SignalR,Incredibly simple real-time web for .NET
+morrisjs,Pretty time-series line graphs
+akveo,Angular admin dashboard framework
+aFarkas,"High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any "
+tuupola,jQuery plugin for lazy loading images
+maxogden, a short introduction to node.js
+CachetHQ,An open source status page system for everyone.
+alexa,This project demonstrates how to access and test the Alexa Voice Service using a Java client (running on a Raspberry 
+Theano,"Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi"
+jigish,A window management application (replacement for Divvy/SizeUp/ShiftIt)
+jp9000,OBS - Free and open source software for live streaming and screen recording
+desandro," JavaScript is all like ""You images done yet or what?"""
+react-toolbox,A set of React components implementing Google's Material Design specification with the power of CSS Modules
+Microsoft,Microsoft REST API Guidelines
+nikitavoloboev, Search Interactive Mind Maps to learn anything
+rethinkdb,"Horizon is a realtime, open-source backend for JavaScript apps."
+Kotlin,Pleasant Android application development
+PureLayout,"The ultimate API for iOS & OS X Auto Layout  impressively simple, immensely powerful. Objective-C and Swift compatible."
+roughike,A custom view component that mimics the new Material Design Bottom Navigation pattern.
+mdo,"Standards for flexible, durable, and sustainable HTML and CSS."
+google,Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+mobile-shell,Mobile Shell
+bodymovin,after effects to html library
+thoughtbot,A shell script to set up a macOS laptop for web and mobile development.
+boltdb,An embedded key/value database for Go.
+braziljs,"An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web"
+plotly,The open source JavaScript graphing library that powers plotly
+poteto, Companies that don't have a broken hiring process
+chrisjenx,Custom fonts in Android the easy way...
+eliangcs,HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
+robertdavidgraham,"TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes."
+ElemeFE,Mobile UI elements for Vue.js
+lhc70000,The modern video player for macOS.
